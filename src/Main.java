@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Ejercicio1 ejercicio = new Ejercicio1();
-        ejercicio.dividir();
+        Ejercicio2 ejercicio = new Ejercicio2();
+        ejercicio.convertirEntero();
     }
 }
