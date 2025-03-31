@@ -5,7 +5,7 @@ class Ejercicio1 {
 
         try {
             System.out.print("Ingrese un número: ");
-            int num = sc.nextInt();
+            int num = sc.nextInt();  
 
             int result = 100 / num;
             System.out.println("El resultado es: " + result);
