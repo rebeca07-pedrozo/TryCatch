@@ -1,9 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        Ejercicio3 ejercicio = new Ejercicio3();
-        ejercicio.SumaDosNumerosEnteros();
+        Ejercicio4 ejercicio = new Ejercicio4();
+        ejercicio.MultiplicacionDosNumeros();
     }
 }
+
 
 
 
